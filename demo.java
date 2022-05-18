@@ -1,5 +1,5 @@
 package com.bosch.demo
 
-public class DevOps Demo{
-
+public class DevOpsDemo{
+//directly updated in github
 }
